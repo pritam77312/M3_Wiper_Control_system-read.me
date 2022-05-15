@@ -22,6 +22,8 @@ The STM32F407 Kit takes advantage of the high-performance STM32F407 microcontrol
 
 * USB ST-LINK with three separate interfaces and re-enumeration capability.
 
+* Flexible static memory controller supporting Compact Flash, SRAM, PSRAM, NOR and NAND memories
+
 * Virtual Com port Debug port (with new order code only)
 
 * Large-scale storage (with new order code only)
